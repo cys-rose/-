@@ -1,4 +1,5 @@
 {
+    // 别名联想
     "compilerOptions": {
         "baseUrl": "./",
         "paths": {
