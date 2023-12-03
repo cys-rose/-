@@ -15,7 +15,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <LayoutFixed/>
+  <LayoutFixed />
   <LayoutNav />
   <LayoutHeader />
   <RouterView />
